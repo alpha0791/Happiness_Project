@@ -1,0 +1,5 @@
+{
+  "name": "Happiness AI",
+  "description": "An interactive AI-powered wellness app that uses facial emotion detection to track and boost your happiness.",
+  "requestFramePermissions": ["camera"]
+}
